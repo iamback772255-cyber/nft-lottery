@@ -763,8 +763,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Powered by Stellar & Soroban**
 
-[⭐ Star us on GitHub](https://github.com/your-repo) • [🐦 Follow on Twitter](https://twitter.com/yourproject) • [💬 Join Discord](https://discord.gg/stellar)
-
 **Happy Lottery Building! 🎰✨🚀**
 
 </div>
