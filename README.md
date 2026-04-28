@@ -25,7 +25,12 @@
 ## 📖 Project Title
 
 **NFT Lottery DApp** - Decentralized NFT Prize Lottery System on Stellar
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/3e4792c1-d94a-420c-bd84-610f1d29a3ce" />
+<img width="1916" height="909" alt="image" src="https://github.com/user-attachments/assets/b40a0448-8be1-4f93-905e-57ca83c360ae" />
+
+**Video**
+
+
+https://github.com/user-attachments/assets/2bba3687-9c58-46cc-b011-14ce4fe8413e
 
 
 ## 📝 Description
